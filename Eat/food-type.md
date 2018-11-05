@@ -1,5 +1,5 @@
 You have two fast food options :
 
-[Burger]()
+[Burger](further-on)
 
 [Pizza]()
