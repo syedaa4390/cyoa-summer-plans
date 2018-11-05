@@ -2,3 +2,6 @@ Great! Since you won't be staying for long, you'd want to visit big attractions 
 Decide which amusement park you will go to first:
 
 [Walt Disney World](walt-disney-world.md)
+
+
+[Start over](../home.md)
