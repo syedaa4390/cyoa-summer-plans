@@ -1,6 +1,6 @@
 Now that you have chosen Florida, you have to plan on how long you will want to stay. Choose your option:
 
-[3 days](Florida/visiting-time.md/amusement-park.md)
+[3 days](../3-days/amusement-park.md)
 
 [1 week](Florida/visiting-time.md/restaurants.md])
 
