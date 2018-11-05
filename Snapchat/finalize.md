@@ -1,1 +1,3 @@
-Great! Restart if you would like to 
+Great upload! 
+
+Restart [here](../home.md) if you'd like to.
