@@ -3,3 +3,5 @@ Now that you have chosen Florida, you have to plan on how long you will want to 
 [3 days](amusement-park.md)
 
 [1 week](restaurants.md])
+
+[Start over](../home.md)
