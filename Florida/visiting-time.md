@@ -4,4 +4,4 @@ Now that you have chosen Florida, you have to plan on how long you will want to 
 
 [1 week](../1-week/restaurants.md)
 
-[Start over](../../../home.md)
+[Start over](../home.md)
