@@ -3,3 +3,5 @@ Since you have chosen to visit Disney World first, you have two options on what 
 [Rides](whatsnext.md)
 
 [Pictures](afterpictures.md)
+
+[Start over](../home.md)
