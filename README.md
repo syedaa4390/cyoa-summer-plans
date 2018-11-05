@@ -9,3 +9,5 @@ Where would you like to go?
 Click [here](visiting-time.md) for Florida!
 
 Click [here](visiting-time-PR.md) for Puerto Rico!
+
+**Note:** If you ever want to change your mind and rethink your options about the summer, you can always start over.
