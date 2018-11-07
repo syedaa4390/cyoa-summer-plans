@@ -4,4 +4,4 @@ Great! You have decided to plan on eating at restaurants such as Pane & Vino, Bu
 
 [Pool](../enjoy-it.md)
 
-Start over
+[Start over](../README.md)
