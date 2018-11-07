@@ -4,7 +4,7 @@ Friends welcome you to stay at their hous
 
 <<<<<<< HEAD
 [Pool](../enjoy-it.md)
-=======
+
 [Pool](enjoy-it)
 
 [Start over](../README.md)
