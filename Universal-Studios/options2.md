@@ -1,5 +1,5 @@
 Great! Now you can decide what you want to do first! You have two options:
 
-[Eat](food-type)
+[Eat](../food-type.md)
 
-[Take-Tour](mystery)
+[Take-Tour](../mystery.md)
