@@ -3,6 +3,6 @@ Decide which amusement park you will go to first:
 
 [Walt Disney World](../Walt-Disney-World/options.md)
 
-[Universal Studios](options2.md)
+[Universal Studios](../Universal-Studios/options2.md)
 
 [Start over](../home.md)
