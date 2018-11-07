@@ -4,3 +4,4 @@ You answer the phone and crash against a tree. You don’t get hurt but your fri
 
 [Tell-Friend](agreement)
 
+[Start over](../README.md)
