@@ -5,4 +5,4 @@ Decide which amusement park you will go to first:
 
 [Universal Studios](../Universal-Studios/options2.md)
 
-[Start over](../3-days/cyoa-summer-plans)
+[Start over](../cyoa-summer-plans)
