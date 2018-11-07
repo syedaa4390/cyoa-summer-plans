@@ -5,4 +5,4 @@ Decide which amusement park you will go to first:
 
 [Universal Studios](../Universal-Studios/options2.md)
 
-[Start over](../home.md)
+[Start over](../README.md)
