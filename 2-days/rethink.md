@@ -1,3 +1,5 @@
-Why even bother to go? Pick another place!
+2 days is a pretty short time.. But you can manage to enjoy your time there somehow. You could either go : 
 
-You may restart if you would like to !
+[Shopping](what-to-shop)
+
+[El-Yunque](yunque-option)
