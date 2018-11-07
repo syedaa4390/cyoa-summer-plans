@@ -2,6 +2,6 @@ Rethink your choice.. But if you would really want to go you can prepare for wha
 
 [Ignore](../packing-plans.md)
 
-[Answer](consequences)
+[Answer](../consequences.md)
 
 
