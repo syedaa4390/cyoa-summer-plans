@@ -1,6 +1,6 @@
 You have two fast food options :
 
-[Burger](further-on)
+[Burger](../further-on.md)
 
 [Pizza]()
 
