@@ -1,7 +1,7 @@
 You would want to upload some pictures. Where will you upload them?
 
-[Snapchat](finalize.md)
+[Snapchat](../finalize.md)
 
-[Instagram](finalize2.md)
+[Instagram](../finalize2.md)
 
 [Start over](../home.md)
