@@ -1,7 +1,7 @@
 Friends welcome you to stay at their hous
 
-[Parties](../phone-call.md)
+[Parties](../Parties/phone-call.md)
 
-[Pool](../enjoy-it.md)
+[Pool](../Pool/enjoy-it.md)
 
 [Start over](../README.md)
