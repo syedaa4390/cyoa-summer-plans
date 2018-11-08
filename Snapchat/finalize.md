@@ -1,3 +1,3 @@
 Great! Upload the picture. 
 
-[Start-over](../README.md)
+[Start Over](../README.md)
