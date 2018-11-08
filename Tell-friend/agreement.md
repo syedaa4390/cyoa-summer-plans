@@ -1,3 +1,3 @@
 Best Choice! You can either pay the damage or come to some other agreement with your friend. 
 
-You may restart if you want to !
+You may [restart(../README.md)if you want to!
