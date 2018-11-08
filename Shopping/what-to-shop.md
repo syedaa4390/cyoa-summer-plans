@@ -1,7 +1,7 @@
 What would you want to shop?
 
-[Clothes](../decision.md)
+[Clothes](../Clothes/decision.md)
 
-[New-Phone](../advice.md)
+[New Phone](../New-Phone/advice.md)
 
-[Start-over](../README.md)
+[Start over](../README.md)
