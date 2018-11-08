@@ -5,5 +5,4 @@ Which of the following would you like to go to?
 
 [Fast-Food-Resaurants]()
 
-
 [Start over](../README.md)
