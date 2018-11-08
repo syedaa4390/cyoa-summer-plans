@@ -1,3 +1,3 @@
 Yeah! Spoil yourself
 
-Start over if you would like to !
+[Start-over](../README.md)
