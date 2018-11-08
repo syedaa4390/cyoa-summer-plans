@@ -4,4 +4,4 @@ Since you have chosen to visit Disney World first, you have two options on what 
 
 [Pictures](../afterpictures.md)
 
-[Start over](../home.md)
+[Start over](../README.md)
