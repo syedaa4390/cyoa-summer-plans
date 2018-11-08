@@ -1,3 +1,3 @@
-Great upload! 
+Great! Upload the picture. 
 
-Restart [here](../README.md) if you'd like to.
+[Start-over](../README.md)

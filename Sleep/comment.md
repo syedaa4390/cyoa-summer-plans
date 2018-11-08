@@ -1,3 +1,3 @@
 Nice vacation!
 
-You may [restart](../README.md) if you want to!
+[Start-Over](../README.md)
