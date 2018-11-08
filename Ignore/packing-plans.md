@@ -2,6 +2,6 @@ You will get back to your friends house safe. Your flight is tomorrow night. Wou
 
 [Start-Packing](../Start-Packing/smart-choice.md)
 
-[Continue-Partying](../Continue-Partying/-wrong-choice.md)
+[Continue-Partying](../Continue-Partying/wrong-choice.md)
 
 [Start over](../README.md)
