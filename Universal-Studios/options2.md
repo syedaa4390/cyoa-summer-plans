@@ -1,7 +1,7 @@
 Great! Now you can decide what you want to do first! You have two options:
 
-[Eat](../food-type.md)
+[Eat](../Eat/food-type.md)
 
-[Take-Tour](../mystery.md)
+[Take tour](../Take-tour/mystery.md)
 
-[Start over](../README.md)
+[Start Over](../README.md)
