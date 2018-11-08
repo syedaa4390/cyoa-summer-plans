@@ -1,4 +1,4 @@
 Smart choice. You will mostlikely save yourself from trouble through this choice! 
-Have fun !
+Have fun!
 
-You may restart if you want to
+You may [restart](../README.md) if you want to.
