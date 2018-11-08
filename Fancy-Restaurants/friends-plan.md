@@ -1,7 +1,7 @@
 Great! You have decided to plan on eating at restaurants such as Pane & Vino, Burgers Shakes Inc and Leynia. However, Friends welcome you to stay at their house. Each have different plans. What do you choose?
 
-[Parties](../phone-call.md)
+[Parties](../Parties/phone-call.md)
 
-[Pool](../enjoy-it.md)
+[Pool](../Pool/enjoy-it.md)
 
-[Start over](../README.md)
+[Start Over](../README.md)
