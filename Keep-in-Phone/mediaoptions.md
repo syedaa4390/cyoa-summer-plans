@@ -4,4 +4,4 @@ You would want to upload some pictures. Where will you upload them?
 
 [Instagram](../finalize2.md)
 
-[Start over](../home.md)
+[Start over](../README.md)
