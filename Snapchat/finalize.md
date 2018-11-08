@@ -1,3 +1,3 @@
-Great! Upload the picture. 
+Great pic! Keep uploading!
 
 [Start Over](../README.md)
