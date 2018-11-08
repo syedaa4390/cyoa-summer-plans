@@ -3,3 +3,5 @@ Now that you have chosen Puerto Rico, you have to plan how long you will want to
 [4 days](../options-to-do.md)
 
 [2 days](../rethink.md)
+
+[Start over](../README.md)
