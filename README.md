@@ -13,3 +13,6 @@ Click [here](Puerto-Rico/visiting-time-PR.md) for Puerto Rico!
 **Note:** It is highly suggested for you to go to Florida, since you generally like that better.
 
 **BY THE WAY: If you ever want to change your mind and rethink your options about the summer, you can always start over.**
+
+
+The creation of this project was made possible by [Syeda S. Afroj](https://github.com/syedaa4390) and [Katya Anguisaca](https://github.com/katyaa4703)!
