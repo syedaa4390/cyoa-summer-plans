@@ -10,4 +10,6 @@ Click [here](Florida/visiting-time.md) for Florida!
 
 Click [here](Puerto-Rico/visiting-time-PR.md) for Puerto Rico!
 
-**Note:** If you ever want to change your mind and rethink your options about the summer, you can always start over.
+**Note:** It is highly suggested for you to go to Florida, since you generally like that better.
+
+**BY THE WAY: If you ever want to change your mind and rethink your options about the summer, you can always start over.**
